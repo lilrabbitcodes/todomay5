@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+  color: purple;
+}
+
+.deletebutton {
+  background-color: black;
+  color: white;
+  position: center;
+}
